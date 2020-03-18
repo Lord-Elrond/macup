@@ -1,0 +1,10 @@
+{
+  "domains": [
+      "com.apple.finder",
+      "com.apple.dock",
+      "NSGlobalDomain",
+      "NSUserDefaults"
+  ],
+  "brew": [],
+  "brew_cask": []
+}
