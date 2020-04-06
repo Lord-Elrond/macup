@@ -4,7 +4,7 @@ import sys
 import json
 from subprocess import Popen, PIPE
 
-MACUP_DIR = os.path.expanduser(os.path.join('~', '.macup'))
+MACUP_DIR = os.path.expanduser('~/.macup')
 DOMAINS_DIR = os.path.join(MACUP_DIR, 'domains')
 MACUP_CONFIG = os.path.join(MACUP_DIR, 'config.json')
 
