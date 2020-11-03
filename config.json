@@ -1,0 +1,38 @@
+{
+  "domains": [
+      "com.apple.finder",
+      "com.apple.dock",
+      "NSGlobalDomain",
+      "NSUserDefaults"
+  ],
+  "taps": [
+    "geckodriver",
+    "gnupg",
+    "mysql",
+    "node",
+    "postgresql",
+    "python3",
+    "redis",
+    "tor",
+    "yarn",
+    "privoxy",
+    "docker",
+    "docker-compose",
+    "ngrok",
+    "electrum"
+  ],
+  "casks": [
+    "atom",
+    "balenaetcher",
+    "firefox",
+    "firefox-developer-edition",
+    "google-chrome",
+    "brave-browser",
+    "tor-browser",
+    "mysqlworkbench",
+    "pgadmin4",
+    "docker",
+    "the-unarchiver",
+    "chromium"
+  ],
+}
